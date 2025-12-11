@@ -2,17 +2,17 @@
 This repository contains a replication of the methodology presented in [Article Title/Citation](https://www.sciencedirect.com/science/article/pii/S0303243422000113), developed as part of a UCL coursework project. The original codebase was cloned and adapted to evaluate the model's performance when applied to Chilean forestry data.
 
 ## Main files: 
-- 0000_Replication_Experimentation_pytorch.ipynb PyTorch Implementation and Validation: A port of the original TensorFlow/Keras architecture to PyTorch. This module verifies the reproducibility of the study by replicating the baseline methodology and achieving comparable performance metrics.
+- **0000_Replication_Experimentation_pytorch.ipynb** - PyTorch Implementation and Validation: A port of the original TensorFlow/Keras architecture to PyTorch. This module verifies the reproducibility of the study by replicating the baseline methodology and achieving comparable performance metrics.
 
-- 0001_loading_clp_data.ipynb Exploratory Data Analysis (EDA) – Chile Region: Procedures for loading, inspecting, and characterizing the dataset specific to the Chilean study area, establishing the baseline distribution for subsequent modeling.
+- **0001_loading_clp_data.ipynb** - Exploratory Data Analysis (EDA) – Chile Region: Procedures for loading, inspecting, and characterizing the dataset specific to the Chilean study area, establishing the baseline distribution for subsequent modeling.
 
-- 0002_gee_sentinel.ipynb Sentinel-2 and Google Earth Engine Integration: Scripts for interfacing with the Google Earth Engine (GEE) API to acquire, preprocess, and visualize Sentinel-2 satellite imagery for specific regions of interest.
+- **0002_gee_sentinel.ipynb** - Sentinel-2 and Google Earth Engine Integration: Scripts for interfacing with the Google Earth Engine (GEE) API to acquire, preprocess, and visualize Sentinel-2 satellite imagery for specific regions of interest.
 
-- 0003_creating_mask.ipynb Temporal Mask Generation: Algorithms for synthesizing ground-truth masks representing forest loss across specified temporal intervals and spatial zones.
+- **0003_creating_mask.ipynb** - Temporal Mask Generation: Algorithms for synthesizing ground-truth masks representing forest loss across specified temporal intervals and spatial zones.
 
-- 0004_get_data.ipynb Automated Label Acquisition Pipeline: An autonomous workflow designed to detect regions of interest and generate corresponding labeled datasets for training and validation.
+- **0004_get_data.ipynb** - Automated Label Acquisition Pipeline: An autonomous workflow designed to detect regions of interest and generate corresponding labeled datasets for training and validation.
 
-- 0005_Experimentation_pytorch_testing_application_in_Chile.ipynb Attention U-Net Evaluation and Optimization: Application of the Attention U-Net architecture to the Chilean dataset. This module utilizes the Optuna framework for hyperparameter optimization to assess model generalization and performance. 
+- **0005_Experimentation_pytorch_testing_application_in_Chile.ipynb** - Attention U-Net Evaluation and Optimization: Application of the Attention U-Net architecture to the Chilean dataset. This module utilizes the Optuna framework for hyperparameter optimization to assess model generalization and performance. 
 
 
 
