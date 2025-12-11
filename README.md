@@ -1,7 +1,7 @@
 # CourseWork 2: COMP0173: Artificial Intelligence for Sustainable Development - Daniel Huencho
-This is a replication of the code used in the paper https://www.sciencedirect.com/science/article/pii/S0303243422000113 in the context of an UCL Coursework. The repo was clone and worked with the files to try to replicate the in chilean forest. 
+This repository contains a replication of the methodology presented in [Article Title/Citation](https://www.sciencedirect.com/science/article/pii/S0303243422000113), developed as part of a UCL coursework project. The original codebase was cloned and adapted to evaluate the model's performance when applied to Chilean forestry data.
 
-Main files: 
+## Main files: 
 - 0000_Replication_Experimentation_pytorch.ipynb PyTorch Implementation and Validation: A port of the original TensorFlow/Keras architecture to PyTorch. This module verifies the reproducibility of the study by replicating the baseline methodology and achieving comparable performance metrics.
 
 - 0001_loading_clp_data.ipynb Exploratory Data Analysis (EDA) – Chile Region: Procedures for loading, inspecting, and characterizing the dataset specific to the Chilean study area, establishing the baseline distribution for subsequent modeling.
