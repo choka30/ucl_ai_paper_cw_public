@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Chile_Deforestation_Chips" id="Chile_Deforestation_Chips">
+	<SimpleField name="index" type="string"></SimpleField>
+</Schema>
+<Folder><name>Chile_Deforestation_Chips</name>
+  <Placemark id="Chile_Deforestation_Chips.1">
+	<name>0</name>
+      <Point><coordinates>-72.884875,-47.370125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.2">
+	<name>1</name>
+      <Point><coordinates>-72.014875,-45.490125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.3">
+	<name>2</name>
+      <Point><coordinates>-71.364875,-43.772625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.4">
+	<name>3</name>
+      <Point><coordinates>-71.884875,-43.625125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.5">
+	<name>4</name>
+      <Point><coordinates>-71.552375,-42.845125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.6">
+	<name>5</name>
+      <Point><coordinates>-73.639875,-42.295125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.7">
+	<name>6</name>
+      <Point><coordinates>-72.729875,-41.920125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.8">
+	<name>7</name>
+      <Point><coordinates>-71.664875,-41.492625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.9">
+	<name>8</name>
+      <Point><coordinates>-72.824875,-41.417625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.10">
+	<name>9</name>
+      <Point><coordinates>-73.752375,-41.372625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.11">
+	<name>10</name>
+      <Point><coordinates>-71.702375,-41.105125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.12">
+	<name>11</name>
+      <Point><coordinates>-72.689875,-40.897625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.13">
+	<name>12</name>
+      <Point><coordinates>-73.444875,-40.845125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.14">
+	<name>13</name>
+      <Point><coordinates>-72.507375,-40.492625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.15">
+	<name>14</name>
+      <Point><coordinates>-73.069875,-39.492625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.16">
+	<name>15</name>
+      <Point><coordinates>-71.134875,-39.485125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.17">
+	<name>16</name>
+      <Point><coordinates>-73.064875,-39.195125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.18">
+	<name>17</name>
+      <Point><coordinates>-72.732375,-39.142625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.19">
+	<name>18</name>
+      <Point><coordinates>-71.084875,-38.917625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.20">
+	<name>19</name>
+      <Point><coordinates>-72.012375,-38.907625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.21">
+	<name>20</name>
+      <Point><coordinates>-71.969875,-38.572625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.22">
+	<name>21</name>
+      <Point><coordinates>-72.914875,-38.242625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.23">
+	<name>22</name>
+      <Point><coordinates>-71.282375,-38.217625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.24">
+	<name>23</name>
+      <Point><coordinates>-72.359875,-37.830125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.25">
+	<name>24</name>
+      <Point><coordinates>-73.384875,-37.605125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.26">
+	<name>25</name>
+      <Point><coordinates>-71.932375,-37.535125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.27">
+	<name>26</name>
+      <Point><coordinates>-72.937375,-37.285125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.28">
+	<name>27</name>
+      <Point><coordinates>-71.809875,-37.177625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.29">
+	<name>28</name>
+      <Point><coordinates>-72.182375,-37.085125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.30">
+	<name>29</name>
+      <Point><coordinates>-70.907375,-36.882625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.31">
+	<name>30</name>
+      <Point><coordinates>-72.064875,-36.717625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.32">
+	<name>31</name>
+      <Point><coordinates>-72.519875,-36.710125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.33">
+	<name>32</name>
+      <Point><coordinates>-72.842375,-36.705125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.34">
+	<name>33</name>
+      <Point><coordinates>-71.704875,-36.615125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.35">
+	<name>34</name>
+      <Point><coordinates>-71.277375,-36.247625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.36">
+	<name>35</name>
+      <Point><coordinates>-72.409875,-35.777625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.37">
+	<name>36</name>
+      <Point><coordinates>-71.922375,-35.707625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.38">
+	<name>37</name>
+      <Point><coordinates>-71.054875,-35.325125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.39">
+	<name>38</name>
+      <Point><coordinates>-72.087375,-34.955125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.40">
+	<name>39</name>
+      <Point><coordinates>-71.912375,-34.535125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.41">
+	<name>40</name>
+      <Point><coordinates>-70.614875,-34.345125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.42">
+	<name>41</name>
+      <Point><coordinates>-71.092375,-34.280125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.43">
+	<name>42</name>
+      <Point><coordinates>-71.914875,-34.245125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.44">
+	<name>43</name>
+      <Point><coordinates>-70.964875,-33.692625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.45">
+	<name>44</name>
+      <Point><coordinates>-70.492375,-33.590125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.46">
+	<name>45</name>
+      <Point><coordinates>-71.004875,-33.212625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.47">
+	<name>46</name>
+      <Point><coordinates>-71.537375,-33.137625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.48">
+	<name>47</name>
+      <Point><coordinates>-71.114875,-32.425125</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.49">
+	<name>48</name>
+      <Point><coordinates>-71.442375,-31.932625</coordinates></Point>
+  </Placemark>
+  <Placemark id="Chile_Deforestation_Chips.50">
+	<name>49</name>
+      <Point><coordinates>-71.042375,-31.537625</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
